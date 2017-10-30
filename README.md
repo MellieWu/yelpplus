@@ -2,20 +2,12 @@
 
 ## Introduction
 
-Yelp+ is a business search and recommendation system for users to search business,  update preferences and get
-
-Increase recommendation accuracy by suggesting the restaurants they may be interested in, based on their favourite records.
-
-Improve user experience and tailor recommendations to each of users.
+Yelp+ is a restaurant search and recommendation system that analyzes user interests and recommend restaurants to each of users.
 
 ## Technology Stack
 
 - **Hybrid recommendation algorithm**:
-  Item based collaborative filering algorithom and content based recommentation algorithm work together make recommending more  
-  accurately. 
-
-- **Better data storage**:
-  
+  Item based collaborative filering algorithom and content based recommentation algorithm work together make recommending more accurately. 
   
 - **Real time Yelp data**:
   Fetch restaurants data through Yelp API. User has freedom to redirect to Yelp website to know the target restaurant better.
@@ -23,7 +15,7 @@ Improve user experience and tailor recommendations to each of users.
 - **Dynamic web page**:
   Auto refresh the page and load large number of images fast using Ajax.
 
-## Features
+## Functionalities
 
 - **Search retaurants nearby**
 
@@ -35,3 +27,4 @@ Improve user experience and tailor recommendations to each of users.
 
 
 ## Examples
+
